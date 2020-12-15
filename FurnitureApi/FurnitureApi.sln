@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurnitureApi", "FurnitureApi\FurnitureApi.csproj", "{BA86975D-4D63-4BA9-87D4-D6693D2C4FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA86975D-4D63-4BA9-87D4-D6693D2C4FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA86975D-4D63-4BA9-87D4-D6693D2C4FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA86975D-4D63-4BA9-87D4-D6693D2C4FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA86975D-4D63-4BA9-87D4-D6693D2C4FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7136BA1-828E-4F39-AA58-173A608CD504}
+	EndGlobalSection
+EndGlobal
